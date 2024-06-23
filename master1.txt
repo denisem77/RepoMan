@@ -1,0 +1,21 @@
+This is my second attempt committing. Be sure to do what thou wilt with this info. Naw Im just kidding.
+
+Anyways when you commit:
+
+git commit -m "Be sure to place in quotations what is happening. Ex: This is my second Git Commit"
+Then be sure to check the git status. 
+
+So far you have learned:
+git init: initializes the repo
+
+git commit: Adds changes to the repo
+
+git status: shows you the status of the data for the repo: anything is red is waiting to be added. if its green...its good just waiting to be committed.
+
+mkdir: makes a new directory/folder
+
+touch: creates a new file
+
+notepad <name of .txt file>: will open file in notepad to allow text to be added.
+
+clear: cleans GitBash slate
