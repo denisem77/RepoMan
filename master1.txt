@@ -19,3 +19,16 @@ touch: creates a new file
 notepad <name of .txt file>: will open file in notepad to allow text to be added.
 
 clear: cleans GitBash slate
+
+how to link remote repo to github repo:
+Create remote repo
+go to github and create new repo
+be sure the names of the repos match between the local and github repo folder
+go to folder in terminal 
+git init
+git remote add origin (put your github ssh url here without parenthasis)
+VERIFY CONNECTION:
+git remote -v
+
+for the first push to initiate the upstream connect of local to github:
+git push -u origin main
