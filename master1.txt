@@ -32,3 +32,17 @@ git remote -v
 
 for the first push to initiate the upstream connect of local to github:
 git push -u origin main
+
+
+
+LETS MAKE A BRANCH:
+git checkout -b (name your branch. no parenthesis needed)
+%You automatically switch to the folder after creation.
+
+ALREADY MADE A BRANCH?
+git branch: This will list all the branches in the repo
+
+git fetch origin: updates the local repo with the remote repo
+
+SWITCH BRANCHES:
+
